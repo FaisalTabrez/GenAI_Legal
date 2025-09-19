@@ -252,4 +252,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for legal accessibility**
 
+# GenAI_Legal
+>>>>>>> 6f8233010651f4e4f080f085f098d6988a457095
 *Empowering ordinary users to understand their legal rights and obligations through AI-powered document analysis.*
+=======
+# GenAI_Legal
+>>>>>>> 6f8233010651f4e4f080f085f098d6988a457095
